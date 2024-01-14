@@ -1,4 +1,4 @@
-# ConnectTel Customer Churn Prediction <br>
+# ConnectTel Customer Churn Analysis <br>
 ## Introduction<br>
 ConnectTel is a leading telecommunications company at the fore front of innovation and connectivity solutions.
 With a strong presence in the global market, ConnectTel has established itself as a
